@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stephensrebecca607.github.io/okx-ouyi/sitemap.xml
